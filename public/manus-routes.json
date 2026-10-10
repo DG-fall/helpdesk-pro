@@ -1,0 +1,1 @@
+{"routes":[{"path":"/","title":"Accueil"},{"path":"/login","title":"Connexion"},{"path":"/register","title":"Inscription"},{"path":"/dashboard","title":"Tableau de bord"},{"path":"/tickets","title":"Tickets"},{"path":"/tickets/create","title":"Nouveau ticket"},{"path":"/tickets/:id","title":"Détail du ticket"}]}
